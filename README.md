@@ -13,4 +13,20 @@ This repository will contain all important git commands
    ```
    git config -l
    ```
-   
+## Common git commands
+1. To initialise git repo
+   ```
+   git init dirname
+   ```
+1. To move the changes from working directory to staging area
+   ```
+   git add .
+   ```
+1. To move the changes from staging area to local git repo 
+   ```
+   git commit -m "commit message"
+   ```
+1. To upload to changes to the remote github  
+   ```
+   git push origin main
+   ```
