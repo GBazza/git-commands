@@ -20,7 +20,7 @@ This repository will contain all important git commands
    ```
 1. To check the changes between the new file and the old file
    ```
-   git log
+   git diff
    ```
 1. To check the status of the repo
    ```
@@ -38,4 +38,7 @@ This repository will contain all important git commands
    ```
    git push origin main
    ```
-
+1. To see the commit history
+   ```
+   git log
+   ```
