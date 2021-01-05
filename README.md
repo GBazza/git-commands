@@ -42,3 +42,7 @@ This repository will contain all important git commands
    ```
    git log
    ```
+1. To reset the changes from staging area to working directory.
+   ```
+   git reset
+   ```
