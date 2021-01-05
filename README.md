@@ -18,6 +18,14 @@ This repository will contain all important git commands
    ```
    git init dirname
    ```
+1. To check the changes between the new file and the old file
+   ```
+   git log
+   ```
+1. To check the status of the repo
+   ```
+   git status
+   ```
 1. To move the changes from working directory to staging area
    ```
    git add .
@@ -30,3 +38,4 @@ This repository will contain all important git commands
    ```
    git push origin main
    ```
+
